@@ -1,4 +1,4 @@
-# EQD2Calc
+# gEUDCalc
 
 Eclipse (Varian Medical Systems) で利用できるgEUD計算用のスクリプトです。
 
