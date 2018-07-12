@@ -4,7 +4,7 @@ Eclipse (Varian Medical Systems) で利用できるgEUD計算用のスクリプ�
 
 ## 使い方
 
-[ここ](https://raw.githubusercontent.com/EuroMediTech/EQD2Calc/master/EQD2Calc.cs)
+[ここ](https://raw.githubusercontent.com/EuroMediTech/gEUDCalc/master/gEUDCalc.cs)
 を右クリックして「名前を付けてリンク先を保存」するか、
 画面右上の`Clone or download`からこのリポジトリをダウンロードし、`gEUDCalc.cs`を取り出します。
 
